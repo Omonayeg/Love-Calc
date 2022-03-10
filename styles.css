@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: rgb(250, 38, 108);
+    color: white;
+}
+
+h1 {
+   font-size: 3.5rem; 
+}
+
+p, label {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+input {
+    display: flex;
+    margin: 10px auto;
+    width: 35%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+
+button {
+    min-width: 48px;
+    min-height: 40px;
+    background-color: rgb(85, 76, 76);
+    margin-top: 30px;
+    padding: 17px;
+    color: inherit;
+    border-radius: 5px;
+
+}
+
+footer {
+    margin-top: 5px;
+    font-size: 1.2rem;
+}
+
+.heading {
+    padding-bottom: 5%;
+}
+
+.container {
+    width: 80%;
+    margin: 2% auto 3%;
+
+}
+
+
+
+
