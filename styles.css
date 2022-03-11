@@ -16,7 +16,7 @@ p, label {
 
 input {
     display: flex;
-    margin: 10px auto;
+    margin: 7px auto;
     width: 35%;
     padding: 10px;
     border-radius: 10px;
@@ -28,7 +28,7 @@ button {
     min-width: 48px;
     min-height: 40px;
     background-color: rgb(85, 76, 76);
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 17px;
     color: inherit;
     border-radius: 5px;
@@ -40,7 +40,7 @@ color: gold;
 }
 
 footer {
-    margin-top: 15px;
+    margin-top: 30px;
     font-size: 1.2rem;
 }
 
