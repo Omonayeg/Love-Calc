@@ -1,6 +1,6 @@
 var n = Math.floor(Math.random() * 100) + 1;
-var yourName = document.querySelector(".yourname").value;
-var theirName = document.querySelector(".theirname").value;
+var yourName = document.querySelector(".yourname");
+var theirName = document.querySelector(".theirname");
 
 
 function loveCalculator() {
