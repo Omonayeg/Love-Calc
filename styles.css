@@ -2,10 +2,11 @@ body {
     text-align: center;
     background-color: rgb(250, 38, 108);
     color: white;
+    margin: auto;
 }
 
 h1 {
-   font-size: 3.5rem; 
+   font-size: 2.5rem; 
 }
 
 p, label {
