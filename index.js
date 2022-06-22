@@ -1,9 +1,10 @@
 var n = Math.floor(Math.random() * 100) + 1;
+
+function loveCalculator() {
+
 var yourName = document.querySelector(".yourname").value;
 var theirName = document.querySelector(".theirname").value;
 
-
-function loveCalculator() {
  if (n > 75) {
 document.querySelector(".textresult").innerHTML = yourName + " " + theirName +  "Your Love score is " + n + "%." + " Your Love can move mountains, Hold on to each other.";
  }
