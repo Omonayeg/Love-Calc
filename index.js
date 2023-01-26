@@ -15,5 +15,5 @@ document.querySelector(".textresult").innerHTML = yourName + " & " + theirName +
         document.querySelector(".textresult").innerHTML = yourName + " & " + theirName +  ", Your Love score is " + n + "%." + " No Love found, get a job.";
      }
        
-     }
+     }  
     
